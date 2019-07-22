@@ -1,6 +1,10 @@
 
 Machine learning using Scala on Apache Spark
 
+## Published Scala Notebook:
+
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1005735361146337/391868758075581/6132986587663700/latest.html
+
 
 # Apache Spark: Model building
 
@@ -29,9 +33,6 @@ Using the `datasets/Heart.csv` dataset (credit: ISLR), build a binary classifica
 1. Split the data into an 80/20 train/test split. 
 2. Best accuracy score from the test:
 
-Logistic Regression: 0.8666666666666667
-Random Forest Classifier: 0.822222
+- Logistic Regression: 0.8666666666666667
+- Random Forest Classifier: 0.8222222222
 
-## Published Notebook:
-
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1005735361146337/391868758075581/6132986587663700/latest.html
